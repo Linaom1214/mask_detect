@@ -1,4 +1,5 @@
 ## 口罩佩戴检测 /Mask_detect
+## Version1.0
 #写在前面的 /Readig before you use this code
 
  - 本实例利用卷积神经网络实现了图像定位，图像分类。如果你正在这找寻目标检测（yolo ssd ）的相关资源，该模型不适用于你的工作。
@@ -56,3 +57,8 @@ TensorFlow  2.0
     cv2.destroyAllWindows()
     
 PS:模型可以接受任意形状的数据输入上述对输入数据的resize是为了加快计算过程
+
+## Version2.0 
+# 基于目标检测实现的口罩佩戴检测
+
+
