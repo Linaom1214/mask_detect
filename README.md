@@ -60,5 +60,5 @@ PS:模型可以接受任意形状的数据输入上述对输入数据的resize�
 
 ## Version2.0 
 # 基于目标检测实现的口罩佩戴检测
-
+https://github.com/Linaom1214/mask-detection-of-object-detection
 
