@@ -1,7 +1,7 @@
 ## 口罩佩戴检测 /Mask_detect
 ## Version1.0
-#写在前面的 /Readig before you use this code
-
+## 写在前面的 /Readig before you use this code
+![avatar](002.jpg)
  - 本实例利用卷积神经网络实现了图像定位，图像分类。如果你正在这找寻目标检测（yolo ssd ）的相关资源，该模型不适用于你的工作。
  - Tips： this case is built by Covn net  through image classification 
    and image location .if you need some resource of object detection
